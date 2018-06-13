@@ -1,7 +1,6 @@
 
-
-
 ####一.安装配置
+
 #####1.第一步
 ```
 git clone https://github.com/jiangqqlmj/GaGaMall.git
@@ -21,12 +20,12 @@ Mac OS X:react-native run-android  or Windows OS:react-native start and react-na
 2.运行iOS版本
 Mac OS X:react-native run-ios or  xcode open project and run project
 ```
-####三.套餐教程
+####二.套餐教程
 [1.[RN实战-嘎嘎商城]之仿快递时间轴布局实现(订单状态)](http://www.lcode.org/?p=1855)</br>
 [2.[RN实战-嘎嘎商城]之轻松实现Tab底部菜单导航栏切换效果-Android/iOS双适配](http://www.lcode.org/?p=1857)</br>
 [3.[RN实战-嘎嘎商城]之商家详情界面布局分析与实现](http://www.lcode.org/?p=1865)</br>
 
-####四.运行效果
+####三.运行效果
 #####整体效果
 ![个人中心](./screenshot/demo_center.gif) 
 ![城市选择](./screenshot/1.jpeg) 
@@ -38,7 +37,7 @@ Mac OS X:react-native run-ios or  xcode open project and run project
 ![商品列表](./screenshot/7.jpeg) 
 ![商家详情](./screenshot/8.jpeg) 
 
-####五.打包方法
+####四.打包方法
 #####1.Android版本
 ```
 1.签名key以及release签名信息已配置
@@ -47,5 +46,5 @@ Mac OS X:react-native run-ios or  xcode open project and run project
 4.上述命令执行完毕,在android/app/build/outputs/apk目录下面生成app-release.apk
 ```
 
-####六.安装包下载
+####五.安装包下载
 #####[1.Android版本](./apks/app-release.apk)
